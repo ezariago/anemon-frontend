@@ -17,7 +17,7 @@ android {
         applicationId = "me.ezar.anemon"
         minSdk = 28
         targetSdk = 36
-        versionCode = 7
+        versionCode = 8
         versionName = "0.1"
 
         val properties = Properties()
